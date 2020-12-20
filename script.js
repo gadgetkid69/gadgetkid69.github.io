@@ -25,7 +25,7 @@ function send() {
 
     // Webhook Data
     const data = {
-  "username": "Serpent's Brickseek Flips",
+  "username": "Serpent' Brickseek Flips",
   "avatar_url": "https://cdn.discordapp.com/attachments/764916291164438538/787181335298048010/DSQGcrQI_400x400.jpg",
   "content": "<@&785360448244809759>",
   "embeds": [
